@@ -10207,6 +10207,9 @@ p {
       background-color: #684FFF;
       color: #FFFFFF;
       border-color: #684FFF; }
+      .social-square:hover svg path {
+        fill: white;
+    }
   .social-sm-round {
     width: 60px;
     height: 60px;
@@ -10216,6 +10219,9 @@ p {
       background-color: #684FFF;
       color: #FFFFFF;
       border-color: #684FFF; }
+      .social-sm-round:hover svg path {
+        fill: white;
+      }
   .social-lg-round {
     width: 80px;
     height: 80px;
